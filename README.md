@@ -1,2 +1,2 @@
-# Node_Express_MongoDB_Server_Boiler_Plate
-A boiler plate for running a node server with express
+# Node_Express_React_MongoDB_Server_Boiler_Plate
+A mern stack boiler plate
